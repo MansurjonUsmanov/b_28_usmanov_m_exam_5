@@ -1,0 +1,10 @@
+Operatorlar Nima?
+Birorbir matematik amallar yoki mantiqiy amallar bajaruvchi belgilar operatorlar deyiladi.
++ q’shish
+ / -bo’lish
+ ~/ - butun polish. *-ko’payitrish ,  %-qoldiqni topish.
+
+Mantiqiy opertorlar:  &&, || yoki, ! imkor, != teng emas, ^xor;
+&& _ikkala ifoda rost bollas rost
+|| ifodalardan hech bo’lmaganda biri post bo’lsa, rost
+^ mantiqiy xor ikkalasi bir turda ta;luqli bo’lsa, rost
